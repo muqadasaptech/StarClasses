@@ -1,0 +1,110 @@
+.navbar-nav a{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.navbar-nav button i{
+    color: white;
+    font-size: 20px;
+    margin-top: 1px;
+}
+
+h1 {
+    font-size: 65px;
+    color: #16325B;
+    font-family: "Playfair Display", serif;
+    font-weight: 700;
+    letter-spacing: 2px;
+   
+    
+}
+
+h2 {
+    font-weight: 200;
+    font-size: 45px;
+    color: #16325B;
+    font-family: "Playfair Display", serif;
+    
+    
+}
+
+h6 {
+    font-size: 17px;
+    font-weight: 800;
+   
+}
+
+p {
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    
+}
+
+.profile {
+    margin-top: 100px;
+}
+
+/* .Aamir img {
+    margin-top: 10px;
+    float: left;
+} */
+
+.Aamir {
+    margin-top: 100px;
+}
+
+/* .sarim img {
+    float: right;
+    margin-top: 10px;
+} */
+
+.sarim {
+    margin-top: 150px;
+}
+
+/* .Abdullah img {
+    float: left;
+    margin-top: 10px;
+} */
+
+.Abdullah {
+    margin-top: 150px;
+}
+
+/* .nouman img {
+    float: right;
+    margin-top: 10px;
+} */
+
+.nouman {
+    margin-top: 150px;
+}
+
+/* .Muneeb img {
+    float: left;
+    margin-top: 1px;
+} */
+
+.Muneeb {
+    margin-top: 150px;
+}
+
+.img-left {
+    float: left;
+    margin-top: 10px;
+    height: 430px;
+    width: 380px;
+    display: flex;
+    flex-wrap: row wrap;
+    justify-content: center;
+}
+
+.img {
+    float: right;
+    margin-top: 10px;
+    height: 430px;
+    width: 380px;
+    display: flex;
+    flex-wrap: row wrap;
+    justify-content: center;
+}
